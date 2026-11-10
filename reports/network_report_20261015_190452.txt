@@ -1,0 +1,110 @@
+============================================================
+ Network Information Report
+============================================================
+Date & Time : 2026-10-15 19:04:52.534258
+Hostname    : DESKTOP-ESSOKT3
+
+Wi-Fi SSID
+------------------------------
+MP-NW-808-5G1
+
+Public IP
+------------------------------
+202.149.217.34
+
+Private IP Addresses
+------------------------------
+Ethernet 2: 169.254.195.152
+Ethernet: 169.254.92.151
+Ethernet 3: 192.168.56.1
+Ethernet 4: 192.168.78.2
+Local Area Connection* 9: 169.254.206.68
+Local Area Connection* 10: 169.254.189.59
+Wi-Fi: 172.50.50.158
+Loopback Pseudo-Interface 1: 127.0.0.1
+
+Location Information (Public IP Based)
+------------------------------
+Country     : India
+Region      : Maharashtra
+City        : Mumbai
+ISP         : Tata Teleservices Maharashtra Ltd
+Latitude    : 19.0748
+Longitude   : 72.8856
+Timezone    : Asia/Kolkata
+
+Internet Speed Test
+------------------------------
+download_mbps       : 175.83
+download_mBps       : 21.98
+upload_mbps         : 102.66
+upload_mBps         : 12.83
+ping_ms             : 1112.53
+method              : speedtest
+
+Routing Table
+------------------------------
+===========================================================================
+Interface List
+ 15...00 ff 9b 14 32 ba ......Sophos TAP Adapter
+ 17...08 8f c3 27 ad 5e ......Realtek PCIe GbE Family Controller
+  3...0a 00 27 00 00 03 ......VirtualBox Host-Only Ethernet Adapter
+ 10...0a 00 27 00 00 0a ......VirtualBox Host-Only Ethernet Adapter #2
+ 20...76 4c a1 90 59 cb ......Microsoft Wi-Fi Direct Virtual Adapter
+  5...76 4c a1 90 49 db ......Microsoft Wi-Fi Direct Virtual Adapter #2
+  6...74 4c a1 90 79 eb ......MediaTek Wi-Fi 6 MT7921 Wireless LAN Card
+  1...........................Software Loopback Interface 1
+===========================================================================
+
+IPv4 Route Table
+===========================================================================
+Active Routes:
+Network Destination        Netmask          Gateway       Interface  Metric
+          0.0.0.0          0.0.0.0     172.50.50.10    172.50.50.158     30
+        127.0.0.0        255.0.0.0         On-link         127.0.0.1    331
+        127.0.0.1  255.255.255.255         On-link         127.0.0.1    331
+  127.255.255.255  255.255.255.255         On-link         127.0.0.1    331
+      172.50.50.0    255.255.255.0         On-link     172.50.50.158    286
+    172.50.50.158  255.255.255.255         On-link     172.50.50.158    286
+    172.50.50.255  255.255.255.255         On-link     172.50.50.158    286
+     192.168.56.0    255.255.255.0         On-link      192.168.56.1    281
+     192.168.56.1  255.255.255.255         On-link      192.168.56.1    281
+   192.168.56.255  255.255.255.255         On-link      192.168.56.1    281
+     192.168.78.0    255.255.255.0         On-link      192.168.78.2    281
+     192.168.78.2  255.255.255.255         On-link      192.168.78.2    281
+   192.168.78.255  255.255.255.255         On-link      192.168.78.2    281
+        224.0.0.0        240.0.0.0         On-link         127.0.0.1    331
+        224.0.0.0        240.0.0.0         On-link      192.168.56.1    281
+        224.0.0.0        240.0.0.0         On-link      192.168.78.2    281
+        224.0.0.0        240.0.0.0         On-link     172.50.50.158    286
+  255.255.255.255  255.255.255.255         On-link         127.0.0.1    331
+  255.255.255.255  255.255.255.255         On-link      192.168.56.1    281
+  255.255.255.255  255.255.255.255         On-link      192.168.78.2    281
+  255.255.255.255  255.255.255.255         On-link     172.50.50.158    286
+===========================================================================
+Persistent Routes:
+  None
+
+IPv6 Route Table
+===========================================================================
+Active Routes:
+ If Metric Network Destination      Gateway
+  1    331 ::1/128                  On-link
+  3    281 fe80::/64                On-link
+ 10    281 fe80::/64                On-link
+  6    286 fe80::/64                On-link
+ 10    281 fe80::9849:c510:3240:2e32/128
+                                    On-link
+  3    281 fe80::bdcb:f2db:8ebf:91be/128
+                                    On-link
+  6    286 fe80::f5a7:d3f2:544:c04/128
+                                    On-link
+  1    331 ff00::/8                 On-link
+  3    281 ff00::/8                 On-link
+ 10    281 ff00::/8                 On-link
+  6    286 ff00::/8                 On-link
+===========================================================================
+Persistent Routes:
+  None
+
+Done!

@@ -22,7 +22,7 @@ Features
 
 - Public/private IP collection
 - Geo IP lookup
-- Speedtest
+- Speedtest with alternate HTTP download option
 - Ping targets
 - Traceroute
 - JSON/CSV export

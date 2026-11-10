@@ -1,0 +1,48 @@
+============================================================
+ Network Information Report
+============================================================
+Date & Time : 2026-08-03 20:13:41.702473
+Hostname    : DESKTOP-ESSOKT3
+
+Wi-Fi SSID
+------------------------------
+Not detected
+
+Public IP
+------------------------------
+202.149.217.34
+
+Private IP Addresses
+------------------------------
+Ethernet 2: 169.254.195.152
+Ethernet: 169.254.92.151
+Ethernet 3: 192.168.56.1
+Ethernet 4: 192.168.78.2
+Local Area Connection* 9: 169.254.206.68
+Local Area Connection* 10: 169.254.189.59
+Wi-Fi: 172.50.50.158
+Loopback Pseudo-Interface 1: 127.0.0.1
+
+Location Information (Public IP Based)
+------------------------------
+Country     : India
+Region      : Maharashtra
+City        : Mumbai
+ISP         : Tata Teleservices Maharashtra Ltd
+Latitude    : 19.0748
+Longitude   : 72.8856
+Timezone    : Asia/Kolkata
+
+Internet Speed Test
+------------------------------
+download_mbps       : 96.32
+download_mBps       : 12.04
+upload_mbps         : 44.3
+upload_mBps         : 5.54
+ping_ms             : N/A
+
+Routing Table
+------------------------------
+No routing table entries found.
+
+Done!
